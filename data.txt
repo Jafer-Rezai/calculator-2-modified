@@ -1,0 +1,5 @@
+add 5 5
+subtract 10 5
+cube 3
+pow 2 3
+mod 10 3
